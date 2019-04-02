@@ -69,7 +69,30 @@
 
 
 }
-
+/*added by rh*/
+#webOfScience{
+    margin-left:50px;
+}
+#ESCI_button_not{
+    margin-left:80px;
+}
+#elsevier_scopus1{
+    margin-left: 10px;
+}
+@media only screen and (max-width: 600px) {
+    #webOfScience{
+        margin-left:0px;
+        margin-bottom: 10px;
+    }
+    #ESCI_button_not{
+        margin-left:80px;
+        margin-bottom: 10px;
+    }
+    #elsevier_scopus1{
+        margin-left: 0px;
+        margin-bottom: 10px;
+    }
+}
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
 
@@ -97,17 +120,3 @@
 } 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
