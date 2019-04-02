@@ -1649,3 +1649,8 @@ td{
 #team .container .row .main-team-head{
   margin-left:auto;
 }
+iframe{
+  width: 250px;
+  height: 300px;
+}
+}
