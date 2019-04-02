@@ -14,19 +14,7 @@ body {
   overflow-x: hidden;
 }
 
-@media(max-width: 540px){
 
-.one{
-max-width: 75px;
-}
-
-
-.two{
-
-
-}
-
-}
 
 a {
   color: #18d26e;
