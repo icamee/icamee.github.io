@@ -7,7 +7,13 @@
  
  }
 
-
+.esci{
+ display:none;
+ 
+ }
+ .esci1{
+  display:block;
+ }
 
 
 
@@ -20,6 +26,13 @@
 .descr{
  display:none;
  
+ }
+.esci{
+ display:none;
+ 
+ }
+ .esci1{
+  display:block;
  }
 
 
@@ -40,7 +53,14 @@
 .descr{
  display:block;
  
+ }.esci{
+ display:block;
+ 
  }
+ .esci1{
+  display:none;
+ }
+
 
 
 
