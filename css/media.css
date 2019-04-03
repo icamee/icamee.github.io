@@ -15,6 +15,13 @@
   display:block;
  }
 
+ .dis{ 
+  display:block;
+ }
+ 
+ .hello{
+  display:none;
+ }
 
 
 }
@@ -33,6 +40,14 @@
  }
  .esci1{
   display:block;
+ }
+ 
+ .dis{ 
+  display:block;
+ }
+ 
+ .hello{
+  display:none;
  }
 
 
@@ -63,7 +78,13 @@
   display:none;
  }
 
-
+.dis{ 
+  display:none;
+ }
+ 
+ .hello{
+  display:block;
+ }
 
 
 
